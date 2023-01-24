@@ -12,9 +12,12 @@ For this extension project, I decided to create an interactive map dashboard to 
 
 It's important to note that this project is not meant to provide any political, cultural or social conclusions. Instead, it serves as an opportunity for me to explore my interests in data visualization and political sociology. Furthermore, it serves as a foundation for potential future projects that may delve deeper into the patterns of demonstrations in specific countries and time periods.
 
-Click [here](https://public.tableau.com/app/profile/marva.loyfer/viz/MassMobilizationProject/Dashboard1) to see the dashboard on Tableau Public.
+### Click [here](https://public.tableau.com/app/profile/marva.loyfer/viz/MassMobilizationProject/Dashboard1) to see the dashboard on Tableau Public.
 
-Data were taken from Harvard’s [Mass Mobilization Protest Data](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/HTTWYL/TJJZNG&version=5.1)  
+### Data were taken from Harvard’s [Mass Mobilization Protest Data](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/HTTWYL/TJJZNG&version=5.1)  
 
-<br>The github repo for this project is public <b><a href="https://github.com/Marvalfr/Mass-Mobilization-Data-Project-Analysis" target="_blank">[here]. ︎<br></a></b><span style="color: #fcfafa;"><br>
+### <br>The github repo for this project is public <b><a href="https://github.com/Marvalfr/Mass-Mobilization-Data-Project-Analysis" target="_blank">[here]. <a href="https://github.com">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo">
+</a>
+<br></a></b><span style="color: #fcfafa;"><br>
 .<br>
