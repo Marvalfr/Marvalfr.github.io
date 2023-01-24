@@ -12,6 +12,6 @@ This project aims to classify healthy tissue samples and cancer tumor samples us
 
 ### * <br>The github repo for this project is public <b><a href="https://github.com/Marvalfr/DNA-Methylation-Analysis" target="_blank">[here]. 
 <a href="https://github.com/Marvalfr/DNA-Methylation-Analysis">
-  <img src="https://github.githubassets.com/favicons/favicon.svg" width="2.5" height="2.5" alt="GitHub logo">
+  <img src="https://github.githubassets.com/favicons/favicon.svg" width="3" height="3" alt="GitHub logo">
 </a>
 
