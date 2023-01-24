@@ -17,5 +17,5 @@ It's important to note that this project is not meant to provide any political, 
 ### * Data were taken from Harvard’s [Mass Mobilization Protest Data](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/HTTWYL/TJJZNG&version=5.1).
 ### * <br>The github repo for this project is public <b><a href="https://github.com/Marvalfr/Mass-Mobilization-Data-Project-Analysis" target="_blank">[here]. 
 <a href="https://github.com/Marvalfr/Mass-Mobilization-Data-Project-Analysis">
-  <img src="https://github.githubassets.com/favicons/favicon.svg" width="3" height="3" alt="GitHub logo">
+  <img src="https://github.githubassets.com/favicons/favicon.svg" width="2.5" height="2.5" alt="GitHub logo">
 </a>
