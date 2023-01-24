@@ -10,12 +10,12 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Marva Loyfer # add your name
-author-img: #david-freeman.jpg # add your photo
+author-img: IMG_20210209_160041966_PORTRAIT.jpg # add your photo
 about-author: #I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
-social-github: https://github.com/Marvalfr # add your Github handle
-social-linkedin: https://www.linkedin.com/in/marva-loyfer/ # add your Linkedin handle
+social-github: Marvalfr # add your Github handle
+social-linkedin: marva-loyfer # add your Linkedin handle
 social-email: mloyfer@gmail.com # add your Email address
 
 # Disqus
