@@ -19,5 +19,5 @@ It's important to note that this project is not meant to provide any political, 
 ### *<br>The github repo for this project is public <b><a href="https://github.com/Marvalfr/Mass-Mobilization-Data-Project-Analysis" target="_blank">[here].
 
 <a href="https://github.com/Marvalfr/Mass-Mobilization-Data-Project-Analysis">
-  <img src="https://github.githubassets.com/favicons/favicon.svg" width="10" height="10" alt="GitHub logo">
+  <img src="https://github.githubassets.com/favicons/favicon.svg" width="40" height="40" alt="GitHub logo">
 </a>
