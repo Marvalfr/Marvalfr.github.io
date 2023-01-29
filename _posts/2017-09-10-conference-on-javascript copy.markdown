@@ -15,6 +15,6 @@ I analyzed posts from the Israel and Jewish subreddits using Reddit's Pushshift 
   <img src="https://github.githubassets.com/favicons/favicon.svg" width="40" height="40" alt="GitHub logo">
 </a>
 
-<img src= "https://github.com/Marvalfr/Marvalfr.github.io/blob/master/assets/img/Top%2020%20Words%20with%20Strongest%20Predictive%20Power%20for%20Israel%20Subreddit.png">
+<img src= "https://github.com/Marvalfr/NLP-project/blob/main/img/Top%2020%20Words%20with%20Strongest%20Predictive%20Power%20for%20Israel%20Subreddit.png">
 
-<img src= "https://github.com/Marvalfr/Marvalfr.github.io/blob/master/assets/img/Top%2020%20Words%20with%20Strongest%20Predictive%20Power%20for%20Jewish%20Subreddit.png">
+<img src= "https://github.com/Marvalfr/NLP-project/blob/main/img/Top%2020%20Words%20with%20Strongest%20Predictive%20Power%20for%20Jewish%20Subreddit.png">
